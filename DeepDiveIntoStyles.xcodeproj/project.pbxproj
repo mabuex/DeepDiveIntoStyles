@@ -11,6 +11,19 @@
 		2C482CA62D6163C500604638 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CA52D6163C500604638 /* ContentView.swift */; };
 		2C482CA82D6163C700604638 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C482CA72D6163C700604638 /* Assets.xcassets */; };
 		2C482CAC2D6163C700604638 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C482CAB2D6163C700604638 /* Preview Assets.xcassets */; };
+		2C482CB72D6165B700604638 /* CircleToggleStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CB62D6165B700604638 /* CircleToggleStyles.swift */; };
+		2C482CB92D6165D600604638 /* ToggleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CB82D6165D600604638 /* ToggleView.swift */; };
+		2C482CBB2D616A8000604638 /* CustomToggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CBA2D616A8000604638 /* CustomToggle.swift */; };
+		2C482CBD2D616D4900604638 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CBC2D616D4900604638 /* ButtonView.swift */; };
+		2C482CBF2D61729700604638 /* TextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CBE2D61729700604638 /* TextFieldView.swift */; };
+		2C482CC12D6172A800604638 /* LabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CC02D6172A800604638 /* LabelView.swift */; };
+		2C482CC32D61758700604638 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CC22D61758700604638 /* CustomButton.swift */; };
+		2C482CC52D61759D00604638 /* CustomButtonStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CC42D61759D00604638 /* CustomButtonStyles.swift */; };
+		2C482CC72D61830000604638 /* ProblemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CC62D61830000604638 /* ProblemView.swift */; };
+		2C482CC92D61837500604638 /* CustomLabelStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CC82D61837500604638 /* CustomLabelStyles.swift */; };
+		2C482CCB2D6187FB00604638 /* CustomLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CCA2D6187FB00604638 /* CustomLabel.swift */; };
+		2C482CCD2D618F4F00604638 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CCC2D618F4F00604638 /* CustomTextField.swift */; };
+		2C482CCF2D61909F00604638 /* CustomTextFieldStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CCE2D61909E00604638 /* CustomTextFieldStyles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +33,19 @@
 		2C482CA72D6163C700604638 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C482CA92D6163C700604638 /* DeepDiveIntoStyles.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DeepDiveIntoStyles.entitlements; sourceTree = "<group>"; };
 		2C482CAB2D6163C700604638 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2C482CB62D6165B700604638 /* CircleToggleStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleToggleStyles.swift; sourceTree = "<group>"; };
+		2C482CB82D6165D600604638 /* ToggleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleView.swift; sourceTree = "<group>"; };
+		2C482CBA2D616A8000604638 /* CustomToggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomToggle.swift; sourceTree = "<group>"; };
+		2C482CBC2D616D4900604638 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		2C482CBE2D61729700604638 /* TextFieldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldView.swift; sourceTree = "<group>"; };
+		2C482CC02D6172A800604638 /* LabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelView.swift; sourceTree = "<group>"; };
+		2C482CC22D61758700604638 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		2C482CC42D61759D00604638 /* CustomButtonStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonStyles.swift; sourceTree = "<group>"; };
+		2C482CC62D61830000604638 /* ProblemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProblemView.swift; sourceTree = "<group>"; };
+		2C482CC82D61837500604638 /* CustomLabelStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLabelStyles.swift; sourceTree = "<group>"; };
+		2C482CCA2D6187FB00604638 /* CustomLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLabel.swift; sourceTree = "<group>"; };
+		2C482CCC2D618F4F00604638 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		2C482CCE2D61909E00604638 /* CustomTextFieldStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextFieldStyles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +78,13 @@
 		2C482CA22D6163C500604638 /* DeepDiveIntoStyles */ = {
 			isa = PBXGroup;
 			children = (
+				2C482CB22D6163EF00604638 /* ButtonStyle */,
+				2C482CB52D61648400604638 /* TextfiledStyle */,
+				2C482CB32D61640800604638 /* ToggleStyle */,
+				2C482CB42D61646F00604638 /* LabelStyle */,
 				2C482CA32D6163C500604638 /* DeepDiveIntoStylesApp.swift */,
 				2C482CA52D6163C500604638 /* ContentView.swift */,
+				2C482CC62D61830000604638 /* ProblemView.swift */,
 				2C482CA72D6163C700604638 /* Assets.xcassets */,
 				2C482CA92D6163C700604638 /* DeepDiveIntoStyles.entitlements */,
 				2C482CAA2D6163C700604638 /* Preview Content */,
@@ -67,6 +98,46 @@
 				2C482CAB2D6163C700604638 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		2C482CB22D6163EF00604638 /* ButtonStyle */ = {
+			isa = PBXGroup;
+			children = (
+				2C482CBC2D616D4900604638 /* ButtonView.swift */,
+				2C482CC22D61758700604638 /* CustomButton.swift */,
+				2C482CC42D61759D00604638 /* CustomButtonStyles.swift */,
+			);
+			path = ButtonStyle;
+			sourceTree = "<group>";
+		};
+		2C482CB32D61640800604638 /* ToggleStyle */ = {
+			isa = PBXGroup;
+			children = (
+				2C482CB62D6165B700604638 /* CircleToggleStyles.swift */,
+				2C482CB82D6165D600604638 /* ToggleView.swift */,
+				2C482CBA2D616A8000604638 /* CustomToggle.swift */,
+			);
+			path = ToggleStyle;
+			sourceTree = "<group>";
+		};
+		2C482CB42D61646F00604638 /* LabelStyle */ = {
+			isa = PBXGroup;
+			children = (
+				2C482CC02D6172A800604638 /* LabelView.swift */,
+				2C482CC82D61837500604638 /* CustomLabelStyles.swift */,
+				2C482CCA2D6187FB00604638 /* CustomLabel.swift */,
+			);
+			path = LabelStyle;
+			sourceTree = "<group>";
+		};
+		2C482CB52D61648400604638 /* TextfiledStyle */ = {
+			isa = PBXGroup;
+			children = (
+				2C482CBE2D61729700604638 /* TextFieldView.swift */,
+				2C482CCC2D618F4F00604638 /* CustomTextField.swift */,
+				2C482CCE2D61909E00604638 /* CustomTextFieldStyles.swift */,
+			);
+			path = TextfiledStyle;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,7 +210,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C482CCD2D618F4F00604638 /* CustomTextField.swift in Sources */,
+				2C482CB92D6165D600604638 /* ToggleView.swift in Sources */,
+				2C482CBF2D61729700604638 /* TextFieldView.swift in Sources */,
+				2C482CC72D61830000604638 /* ProblemView.swift in Sources */,
+				2C482CC52D61759D00604638 /* CustomButtonStyles.swift in Sources */,
+				2C482CC92D61837500604638 /* CustomLabelStyles.swift in Sources */,
+				2C482CC32D61758700604638 /* CustomButton.swift in Sources */,
 				2C482CA62D6163C500604638 /* ContentView.swift in Sources */,
+				2C482CCF2D61909F00604638 /* CustomTextFieldStyles.swift in Sources */,
+				2C482CBD2D616D4900604638 /* ButtonView.swift in Sources */,
+				2C482CBB2D616A8000604638 /* CustomToggle.swift in Sources */,
+				2C482CCB2D6187FB00604638 /* CustomLabel.swift in Sources */,
+				2C482CC12D6172A800604638 /* LabelView.swift in Sources */,
+				2C482CB72D6165B700604638 /* CircleToggleStyles.swift in Sources */,
 				2C482CA42D6163C500604638 /* DeepDiveIntoStylesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -270,6 +354,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"DeepDiveIntoStyles/Preview Content\"";
+				DEVELOPMENT_TEAM = 4AQ32WV4RL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -306,6 +391,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"DeepDiveIntoStyles/Preview Content\"";
+				DEVELOPMENT_TEAM = 4AQ32WV4RL;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
