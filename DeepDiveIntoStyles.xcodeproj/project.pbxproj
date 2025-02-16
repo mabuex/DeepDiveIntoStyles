@@ -24,6 +24,7 @@
 		2C482CCB2D6187FB00604638 /* CustomLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CCA2D6187FB00604638 /* CustomLabel.swift */; };
 		2C482CCD2D618F4F00604638 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CCC2D618F4F00604638 /* CustomTextField.swift */; };
 		2C482CCF2D61909F00604638 /* CustomTextFieldStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CCE2D61909E00604638 /* CustomTextFieldStyles.swift */; };
+		2C482CD12D61974300604638 /* SolutionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C482CD02D61974300604638 /* SolutionsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		2C482CCA2D6187FB00604638 /* CustomLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomLabel.swift; sourceTree = "<group>"; };
 		2C482CCC2D618F4F00604638 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		2C482CCE2D61909E00604638 /* CustomTextFieldStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextFieldStyles.swift; sourceTree = "<group>"; };
+		2C482CD02D61974300604638 /* SolutionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolutionsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				2C482CA32D6163C500604638 /* DeepDiveIntoStylesApp.swift */,
 				2C482CA52D6163C500604638 /* ContentView.swift */,
 				2C482CC62D61830000604638 /* ProblemView.swift */,
+				2C482CD02D61974300604638 /* SolutionsView.swift */,
 				2C482CA72D6163C700604638 /* Assets.xcassets */,
 				2C482CA92D6163C700604638 /* DeepDiveIntoStyles.entitlements */,
 				2C482CAA2D6163C700604638 /* Preview Content */,
@@ -219,6 +222,7 @@
 				2C482CC32D61758700604638 /* CustomButton.swift in Sources */,
 				2C482CA62D6163C500604638 /* ContentView.swift in Sources */,
 				2C482CCF2D61909F00604638 /* CustomTextFieldStyles.swift in Sources */,
+				2C482CD12D61974300604638 /* SolutionsView.swift in Sources */,
 				2C482CBD2D616D4900604638 /* ButtonView.swift in Sources */,
 				2C482CBB2D616A8000604638 /* CustomToggle.swift in Sources */,
 				2C482CCB2D6187FB00604638 /* CustomLabel.swift in Sources */,

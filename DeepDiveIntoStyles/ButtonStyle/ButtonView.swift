@@ -38,24 +38,18 @@ struct ButtonView: View {
             }
             
             Section("Perfect solution") {
-                Button(action: toggleAction) {
-                    Label("Click Me", systemImage: isFavorite ? "checkmark": "heart")
-                        .contentTransition(.symbolEffect(.replace))
-                }
-                .buttonStyle(.capsule)
+                Button("Click Me", systemImage: isFavorite ? "checkmark": "heart", action: toggleAction)
+                    .contentTransition(.symbolEffect(.replace))
+                    .buttonStyle(.capsule)
                 
-                Button(action: toggleAction) {
-                    Label("Click Me", systemImage: isFavorite ? "checkmark": "heart")
-                        .contentTransition(.symbolEffect(.replace))
-                }
-                .buttonStyle(.capsule(.pink))
+                Button("Click Me", systemImage: isFavorite ? "checkmark": "heart", action: toggleAction)
+                    .contentTransition(.symbolEffect(.replace))
+                    .buttonStyle(.capsule(.pink))
                 
-                Button(action: toggleAction) {
-                    Label("Click Me", systemImage: isFavorite ? "checkmark": "heart")
-                        .labelStyle(.vertical(.large))
-                        .contentTransition(.symbolEffect(.replace))
-                }
-                .buttonStyle(.circle(.mint))
+                Button("Click Me", systemImage: isFavorite ? "checkmark": "heart", action: toggleAction)
+                    .labelStyle(.vertical(.large))
+                    .contentTransition(.symbolEffect(.replace))
+                    .buttonStyle(.circle(.mint))
             }
             .listRowSeparator(.hidden)
         }

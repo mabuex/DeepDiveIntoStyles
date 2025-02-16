@@ -23,6 +23,13 @@ struct ContentView: View {
                     NavigationLink(destination: ProblemView()) {
                         Label("Problem", systemImage: "exclamationmark.triangle.fill")
                     }
+                    
+                }
+                
+                Section {
+                    NavigationLink(destination: SolutionsView()) {
+                        Label("Solutions", systemImage: "checkmark.seal.fill")
+                    }
                 }
             }
         } detail: {

@@ -11,11 +11,8 @@ struct ProblemView: View {
     @FocusState var isFocused
     
     @State private var showOutline = false
-    
     @State private var isFavorite = false
-    
     @State private var isOn = false
-    
     @State private var text = ""
     
     var body: some View {
